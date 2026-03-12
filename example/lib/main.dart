@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
             buttonText: 'pick a date',
             onDateSelected: (date) {
               
-              print("Selected Date: $date");
             },
           ),
         ),
