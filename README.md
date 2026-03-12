@@ -89,12 +89,17 @@ CustomSpinnerDatePickerWidget(
 
 ## 📷 Screenshots
 
-Add screenshots of the widget UI here.
 
 Example:
 
 ```
-assets/screenshots/date_picker.png
+### Date Picker Button
+![Spinner Picker](screenshots/date_picker.png)
+<p align="center">
+  <img src="screenshots/spinner_dialog.png" width="300">
+</p>
+### Spinner Dialog
+![Spinner Dialog](screenshots/home_page.png)
 ```
 
 ---
