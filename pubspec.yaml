@@ -1,0 +1,19 @@
+name: custom_spinner_date_picker
+description: A customizable spinner-style date picker widget for Flutter.
+version: 0.0.1
+homepage: https://github.com/jeevanbanstola/custom_spinner_date_picker
+repository: https://github.com/jeevanbanstola/custom_spinner_date_picker
+issue_tracker: https://github.com/jeevanbanstola/custom_spinner_date_picker/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
