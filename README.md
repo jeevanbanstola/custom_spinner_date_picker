@@ -94,16 +94,16 @@ Example:
 
 ```
 ### Date Picker Button
-![Date Picker](/assets/screenshots/date_picker.png)
+![Date Picker](assets/screenshots/date_picker.png)
 
 <p align="center">
-  <img src="/assets/screenshots/date_picker.png" width="300">
+  <img src="assets/screenshots/date_picker.png" width="300">
 </p>
 
-![Date Picker](/assets/screenshots/home_page.png)
+![Date Picker](assets/screenshots/home_page.png)
 
 <p align="center">
-  <img src="/assets/screenshots/home_page.png" width="300">
+  <img src="assets/screenshots/home_page.png" width="300">
 </p>
 
 ---
