@@ -94,14 +94,17 @@ Example:
 
 ```
 ### Date Picker Button
-![Spinner Picker](/assets/screenshots/date_picker.png)
+![Date Picker](/assets/screenshots/date_picker.png)
+
 <p align="center">
-  <img src="ass" width="300">
+  <img src="/assets/screenshots/date_picker.png" width="300">
 </p>
-### Spinner Dialog
-![Spinner Dialog](/
-screenshots/home_page.png)
-```
+
+![Date Picker](/assets/screenshots/home_page.png)
+
+<p align="center">
+  <img src="/assets/screenshots/home_page.png" width="300">
+</p>
 
 ---
 
